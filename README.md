@@ -8,7 +8,6 @@ PayFlex is a seamless and secure payment transfer platform designed to facilitat
 - **Secure Transactions:** Advanced encryption to ensure your financial data is protected.
 - **User-Friendly Interface:** Simple and intuitive design for a smooth user experience.
 - **Transaction History:** Keep track of all your transactions in one place.
-- **24/7 Support:** Our dedicated support team is available round-the-clock to assist you.
 
 ## Getting Started
 
